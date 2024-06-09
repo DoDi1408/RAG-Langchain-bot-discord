@@ -1,7 +1,7 @@
 .env
 
 */.env
-
+__pycache__
 .DS_STORE
 node_modules
 client/react-chat/node_modules
